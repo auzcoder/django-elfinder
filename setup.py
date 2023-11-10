@@ -49,17 +49,17 @@ def find_data_files(srcdir, *wildcards, **kw):
 
 
 data = {
-    'name': 'django-elfinderfs',
+    'name': 'django-elfinder-auzcoder',
     'version': '0.0.11',
-    'author': 'Okami',
-    'author_email': 'okami@fuzetsu.info',
+    'author': 'Abdulhafiz',
+    'author_email': 'auz.offical@gmail.com',
     'description': (
-        "django-elfinderfs is a 3rd party connector for elFinder 2.x "
+        "django-elfinder-auzcoder is a 3rd party connector for elFinder 2.x "
         "and Django. It's a simple local file system driver which "
         "does not uses any databases."),
     'license': 'GPLv3',
     'keywords': 'django elfinder file manager',
-    'url': 'https://pypi.python.org/pypi/django-elfinderfs',
+    'url': 'https://pypi.python.org/pypi/django-elfinder-auzcoder',
     'packages': [
         'elfinderfs',
         'elfinderfs.migrations',
